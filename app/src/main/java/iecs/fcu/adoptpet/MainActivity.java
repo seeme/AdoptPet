@@ -95,12 +95,11 @@ public class MainActivity extends AppCompatActivity {
                 aPet.setImgUrl(petImg);
                 lsPets.add(aPet);
                 Log.v("AdoptPet", shelterName + ";" + kind);
-
-                Message msg = new Message();
-                msg.what = LIST_PETS;
-                msg.obj = lsPets;
-                handler.sendMessage(msg);
             }
+            Message msg = new Message();
+            msg.what = LIST_PETS;
+            msg.obj = lsPets;
+            handler.sendMessage(msg);
         }
     }
 
