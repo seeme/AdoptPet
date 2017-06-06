@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29568601937",
+    "firebase_url": "https://adoptpet-3769f.firebaseio.com",
+    "project_id": "adoptpet-3769f",
+    "storage_bucket": "adoptpet-3769f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29568601937:android:56efef3ad02a5891",
+        "android_client_info": {
+          "package_name": "iecs.fcu.adoptpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29568601937-hej2469oeu4mgflod03l9hqkv0s8rb7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iecs.fcu.adoptpet",
+            "certificate_hash": "90b502dab8b4552d2656ac27bdb002a371ebf94d"
+          }
+        },
+        {
+          "client_id": "29568601937-m70otc03s2k7panbdd2f7osbm51jm3u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrvb1SkzlJtoiq3kgE9o32TWOjE5_44M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29568601937-m70otc03s2k7panbdd2f7osbm51jm3u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
